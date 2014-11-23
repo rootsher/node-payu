@@ -1,4 +1,4 @@
 node-payu
 =========
 
-PayU API wrote for Node.js
+PayU API written for Node.js
